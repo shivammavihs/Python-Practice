@@ -1,0 +1,2 @@
+python:a large snake that kills animals by squeezing them very hard;a popular coding language
+anaconda:anaconda is a distribution of the python and r programming languages for scientific computing that aims to simplify package management and deployment.;a semiaquatic snake of the boa family that may grow to a great size, native to tropical South America.
